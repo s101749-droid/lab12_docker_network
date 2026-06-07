@@ -111,7 +111,7 @@ Katalog web1,Katalog web2,Katalog web3::
 
 Przykładowa zawartość logu:
 
-![SCREENSHOT_10](screenshots/screenshot10.png)
+![SCREENSHOT_8](screenshots/screenshot10.png)
 
 ---
 
